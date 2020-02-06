@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCV2</string>
+    <string name="greeting">Hello World! From OpenCV</string>
+</resources>
